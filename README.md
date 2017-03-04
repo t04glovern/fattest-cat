@@ -4,12 +4,6 @@ Based on the amazing idea and code from lexiross (lexiross/fattest-cat)
 
 ![demo](https://github.com/t04glovern/fattest-small/blob/master/screenshot.png)
 
-## Install
-
-Compatible with node 6+
-
-`npm install -g fattest-small`
-
 ## Usage
 
 ##### Standard

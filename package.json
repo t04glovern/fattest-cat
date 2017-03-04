@@ -1,25 +1,26 @@
 {
-  "name": "fattest-cat",
-  "version": "1.0.9",
-  "description": "Find fattest cat currently up for adoption at SF SPCA.",
+  "name": "fattest-small",
+  "version": "1.0.0",
+  "description": "Find fattest small currently up for adoption at SF SPCA.",
   "bin": "index.js",
   "main": "index.js",
   "engines": {
     "node": ">=6.0.0"
   },
-  "repository": "lexiross/fattest-cat",
+  "repository": "t04glovern/fattest-small",
   "scripts": {
     "precommit": "eslint index.js"
   },
-  "author": "Lexi Ross",
+  "author": "Nathan Glover",
   "keywords": [
-    "cat",
-    "cats",
+    "small",
+    "smalls",
     "spca",
     "fat",
     "fatter",
     "fattest",
-    "meow"
+    "rabbit",
+    "rabbits"
   ],
   "license": "ISC",
   "dependencies": {

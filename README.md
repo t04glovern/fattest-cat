@@ -1,5 +1,7 @@
 Some smalls(?) are born fat, some achieve fatness, others have fatness thrust upon them. You can find all of them at the San Francisco SPCA using this tool.
 
+Based on the amazing idea and code from lexiross (lexiross/fattest-cat)
+
 ## Install
 
 Compatible with node 6+

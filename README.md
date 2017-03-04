@@ -2,6 +2,8 @@ Some smalls(?) are born fat, some achieve fatness, others have fatness thrust up
 
 Based on the amazing idea and code from lexiross (lexiross/fattest-cat)
 
+![demo](https://github.com/t04glovern/fattest-small/blob/master/screenshot.png)
+
 ## Install
 
 Compatible with node 6+
